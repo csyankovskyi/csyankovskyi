@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @csyankovskyi
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning HTML|CSS|JS
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning Python for statistics and AI
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me - email
 
 <!---
