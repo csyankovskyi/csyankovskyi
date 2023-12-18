@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @csyankovskyi
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning Python for statistics and AI
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me - email
 
